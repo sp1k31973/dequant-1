@@ -1,5 +1,6 @@
 dequant Core Integration Repository
 =====================================
+![Logo](http://dequant.online/images/logo.png)
 
 dequant Core is an open source cryptocurrency focused on providing coin holders with 5 unique rewards programs. As a modified fork of PIVX, dequant has a keen focus on environmental sustainability and transaction privacy. By implementing Proof of Stake protocol only, dequant reduces its carbon footprint and by decreasing block rewards over time, hyperinflation is curbed. In addition, the total coin supply of dequant is low and fixed at 25,000,000.
 
@@ -12,7 +13,7 @@ Users will also be able to exchange points and miles between real-world affiliat
 
 This real world implementation, yet to be named, will accessible by not only large retailers and companies, but small businesses as well. A custom API will be created to allow businesses globally to create and connect to their loyalty program to the dequant loyalty rewards program wallet and exchange.
 
-Join our growing Official Discord Server to speak directly with the team: https://discord.gg/tCzJs5G
+Join our growing Official Discord Server to speak directly with the team: JPEm6
 
 ### Coin Specs
 <table>
@@ -30,8 +31,7 @@ Join our growing Official Discord Server to speak directly with the team: https:
 
 ### Block Rewards
 
-<img href="http://dequant.online/img/Whitepaper1.0-10.png">
-
+![Reward](http://dequant.online/img/Whitepaper1.0-10.png)
 
 
 ### Links
