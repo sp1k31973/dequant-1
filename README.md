@@ -2,30 +2,19 @@ dequant Core Integration Repository
 =====================================
 ![Logo](http://dequant.online/images/logo.png)
 
-DEQUANT is the first decentralized market for physical assets and cryptocurrency exchange based on the quantum technology.
-The DEQUANT security protocol gives untouchable protection to the whole end-user device by an quantum powered artificial intelligence.
+DEQUANT is the first Matsernode Coin for the security of its masterternodes based on quantum technology.
+The DEQUANT offers the entire Masternodes unrivaled protection through quantum technology.
 
 What is DEQUANT
 
-The approach of DEQUANT is to solve this problem with an quantum-computer based artificial Intelligence and deep learning techniques to protect our customers against modern and next-generation threats.
+The approach of DEQUANT is to solve this problem with a quantum computer to protect all Masterternodes.
 
-Quantum providing us with a powerful mechanism for sharing cryptographic keys between remote parties and open a door to new dimensions of Cybersecurity.
-Effects such as superposition and entanglement that are not present in the classical world of IT offer information-processing benefits many of which can be meaningfully applied to cryptography.
+Quantum offers us a powerful mechanism. There is still no Coin that protects your Masterternodes on Quantum level.
 
-The DEQUANT AI permanently monitors all decentralized devices in real-time. The quantum entanglement plays a central role here. Quantum particles that are interconnected react to the status of the other networked particles even thousands of miles away and all in zero-time.
+The quantum computer has long been a predominantly theoretical concept. There are several suggestions on how a quantum computer could be realized and on a small scale, some of these concepts were tested in the laboratory and quantum computers with a few qubits were realized.
+In addition to the number of qubits, however, it is also important, for example, to have a low error rate for calculating and reading, and for how long can the states in the qubits be maintained. Currently (2018), many large computer companies invest in the development of quantum computers and the record is around 50 to 70 qubits.
 
-Zero-time makes it possible to protect all other quantum blockchain participants in the same moment of the attack against the threat that has just become known.
-
-The deep learning method in conjunction with the Quantum technology allows us to detect even the smallest changes or attempts to manipulate.
-
-Based on attacks that occur on the individual devices with the most diverse system configurations and operating systems, the artificial intelligence continuously extends its own database by itself.
-
-The Dequant LFAP (learned-from-attack-protocol) analyze, categorize and archives the threat after the attack. Permanent database updates as known from standard anti-virus procedures are now a thing of the past.
-
-dequant Core is an open source cryptocurrency focused on providing coin holders with 5 unique rewards programs. As a modified fork of PIVX, dequant has a keen focus on environmental sustainability and transaction privacy. By implementing Proof of Stake protocol only, dequant reduces its carbon footprint and by decreasing block rewards over time, hyperinflation is curbed. In addition, the total coin supply of dequant is low and fixed at 40,000,000.
-
-Having 28 reward programs that are implemented at progressing milestones is deliberate, so that those who secure and speed the network through holding are rewarded over time. Since POW is not implemented, and the rewards reduce in amount over time, the life cycle of the coin is increased and hyperinflation is reduced. This is critical for future implementation in its real world applications.
-
+In the framework of complexity theory, algorithmic problems are assigned to so-called complexity classes. The best known and most important representatives are the classes P and NP. Where P denotes those problems whose solution can be calculated deterministically in terms of the input length of polynomial propagation time. NP has the problems to which there are solution algorithms that are non deterministically polynomial. Non-determinism allows to test different possibilities at the same time. Since our current computers are deterministic, non-determinism needs to be simulated by sequencing the different possibilities whereby the polynomiality of the solution strategy can be lost.
 
 Join our growing Official Discord Server to speak directly with the team: https://discord.gg/RJPEm6
 
